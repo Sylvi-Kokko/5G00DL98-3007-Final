@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Screen1">This is Screen 1</string>
+    <string name="Screen2">This is Screen 2</string>
+    <string name="goSc1">Go to Screen 1</string>
+    <string name="goSc2">Go to Screen 2</string>
+</resources>

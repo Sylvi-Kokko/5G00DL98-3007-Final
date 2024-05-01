@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minun sovellus</string>
+    <string name="Screen1">Tämä on näkymä 1</string>
+    <string name="Screen2">Tämä on näkymä 2</string>
+    <string name="goSc1">Siirry näkymään 1</string>
+    <string name="goSc2">Siirry näkymään 2</string>
+</resources>
